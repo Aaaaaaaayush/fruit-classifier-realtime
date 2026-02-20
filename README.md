@@ -104,27 +104,27 @@ dataset/
 
 ### Banana Detection
 
-![Banana Demo](demo/realtime_banana.jpg)
+![Banana Demo](demo/realtime_banana.png)
 
 ### Apple Detection
 
-![Apple Demo](demo/realtime_apple.jpg)
+![Apple Demo](demo/realtime_apple.png)
 
 ### Mango Detection(From phone screen)
 
-![Mango Demo](demo/realtime_mango_phone.jpg)
+![Mango Demo](demo/realtime_mango_phone.png)
 
 ### Kiwi Detection(From phone screen)
 
-![Kiwi Demo](demo/realtime_kiwi_phone.jpg)
+![Kiwi Demo](demo/realtime_kiwi_phone.png)
 
 ### Banana Detection(From phone screen)
 
-![Banana Demo](demo/realtime_banana_phone.jpg)
+![Banana Demo](demo/realtime_banana_phone.png)
 
 ### Apple Detection(From phone screen)
 
-![Apple Demo](demo/realtime_apple_phone.jpg)
+![Apple Demo](demo/realtime_apple_phone.png)
 
 ---
 
@@ -225,6 +225,9 @@ fruit-classifier-realtime/
 ## 👨‍💻 Authors
 
 Aayush Bhanushali
+
+
 Anush Singh
+
 
 Machine Learning Engineers
