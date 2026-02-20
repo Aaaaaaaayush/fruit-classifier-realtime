@@ -226,8 +226,7 @@ fruit-classifier-realtime/
 
 Aayush Bhanushali
 
-
 Anush Singh
 
 
-Machine Learning Engineers
+-- Aspiring Machine Learning Engineers
